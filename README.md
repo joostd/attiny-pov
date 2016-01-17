@@ -2,7 +2,11 @@
 
 A low-cost persistence-of-vision toy on a breadboard with an Atmel attiny44a MCU.
 
-# bil of materials
+The result could look like this:
+![hny-by-klb](hny.jpg "KLB's version")
+(picture courtesy of KLB)
+
+# Bil of materials
 
 Each toy is built from the following components:
 
